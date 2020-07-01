@@ -10,7 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="" />
+    <list default="true" id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/CV Cookery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -28,12 +34,15 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1e08pYspkf7VNUVapnJJA9isfWm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ChangesTree.GroupingKeys" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -41,6 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -48,6 +58,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -65,7 +76,8 @@
       <workItem from="1593601413717" duration="331000" />
       <workItem from="1593601779493" duration="2212000" />
       <workItem from="1593604332310" duration="804000" />
-      <workItem from="1593605171687" duration="974000" />
+      <workItem from="1593605171687" duration="7066000" />
+      <workItem from="1593612468184" duration="42000" />
     </task>
     <task id="LOCAL-00001" summary="update buoi 1">
       <created>1593602550076</created>
@@ -102,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593605379489</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update buoi 1">
+      <created>1593606749163</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593606749163</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update buoi 1">
+      <created>1593606841928</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593606841928</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,19 +147,28 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test" />
     <MESSAGE value="update buoi 1" />
     <option name="LAST_COMMIT_MESSAGE" value="update buoi 1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="510" y="208" key="#Notifications" timestamp="1593612497823">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="510" y="208" key="#Notifications/0.0.1280.690@0.0.1280.690" timestamp="1593612497823" />
     <state x="663" y="264" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593447360750">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="663" y="264" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.920@0.0.1707.920" timestamp="1593447360750" />
-    <state x="477" y="34" key="CommitChangelistDialog2" timestamp="1593605378661">
+    <state x="477" y="34" key="CommitChangelistDialog2" timestamp="1593606841057">
       <screen x="0" y="0" width="1707" height="929" />
     </state>
-    <state x="477" y="34" key="CommitChangelistDialog2/0.0.1707.929@0.0.1707.929" timestamp="1593605378661" />
+    <state x="477" y="34" key="CommitChangelistDialog2/0.0.1707.929@0.0.1707.929" timestamp="1593606841057" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1593612509312">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1593612509312" />
     <state x="370" y="96" key="Vcs.Push.Dialog.v2" timestamp="1593605534209">
       <screen x="0" y="0" width="1707" height="929" />
     </state>
