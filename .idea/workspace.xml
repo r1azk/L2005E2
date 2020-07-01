@@ -14,6 +14,7 @@
       <change afterPath="$PROJECT_DIR$/CSS/css1.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/audio/nhac1.mp3" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/trang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/trang1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/trang.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -83,6 +84,7 @@
       <workItem from="1593621809348" duration="1247000" />
       <workItem from="1593623285885" duration="124000" />
       <workItem from="1593623509365" duration="341000" />
+      <workItem from="1593624041029" duration="55000" />
     </task>
     <task id="LOCAL-00001" summary="update buoi 1">
       <created>1593602550076</created>
