@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1e08pYspkf7VNUVapnJJA9isfWm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="" />
+      <created>1593447332922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593447332922</updated>
+      <workItem from="1593447338060" duration="1214000" />
+      <workItem from="1593448672540" duration="40000" />
+      <workItem from="1593535220528" duration="2273000" />
+      <workItem from="1593601413717" duration="331000" />
+      <workItem from="1593601779493" duration="2212000" />
+      <workItem from="1593604332310" duration="804000" />
+      <workItem from="1593605171687" duration="974000" />
+    </task>
+    <task id="LOCAL-00001" summary="update buoi 1">
+      <created>1593602550076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593602550076</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update buoi 1">
+      <created>1593602603078</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593602603078</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1593604540403</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593604540403</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update buoi 1">
+      <created>1593605302221</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593605302221</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update buoi 1">
+      <created>1593605379489</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593605379489</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="update buoi 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update buoi 1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="663" y="264" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593447360750">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="663" y="264" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.920@0.0.1707.920" timestamp="1593447360750" />
+    <state x="477" y="34" key="CommitChangelistDialog2" timestamp="1593605378661">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state x="477" y="34" key="CommitChangelistDialog2/0.0.1707.929@0.0.1707.929" timestamp="1593605378661" />
+    <state x="370" y="96" key="Vcs.Push.Dialog.v2" timestamp="1593605534209">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1593602615859" />
+    <state x="370" y="96" key="Vcs.Push.Dialog.v2/0.0.1707.929@0.0.1707.929" timestamp="1593605534209" />
+  </component>
+</project>
