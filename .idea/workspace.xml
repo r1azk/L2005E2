@@ -11,9 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/CV Cookery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/css1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/nhac1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/104459179_2716580931921635_2260839872399955675_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +79,8 @@
       <workItem from="1593601779493" duration="2212000" />
       <workItem from="1593604332310" duration="804000" />
       <workItem from="1593605171687" duration="7066000" />
-      <workItem from="1593612468184" duration="42000" />
+      <workItem from="1593612468184" duration="868000" />
+      <workItem from="1593621809348" duration="1247000" />
     </task>
     <task id="LOCAL-00001" summary="update buoi 1">
       <created>1593602550076</created>
@@ -128,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593606841928</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update buoi 1">
+      <created>1593612518602</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1593612518602</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,22 +163,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="update buoi 1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="510" y="208" key="#Notifications" timestamp="1593612497823">
-      <screen x="0" y="0" width="1280" height="690" />
+    <state x="816" y="335" key="#Notifications" timestamp="1593621886715">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="510" y="208" key="#Notifications/0.0.1280.690@0.0.1280.690" timestamp="1593612497823" />
+    <state x="816" y="335" key="#Notifications/0.0.2048.1112@0.0.2048.1112" timestamp="1593621886715" />
     <state x="663" y="264" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593447360750">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="663" y="264" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.920@0.0.1707.920" timestamp="1593447360750" />
-    <state x="477" y="34" key="CommitChangelistDialog2" timestamp="1593606841057">
-      <screen x="0" y="0" width="1707" height="929" />
-    </state>
-    <state x="477" y="34" key="CommitChangelistDialog2/0.0.1707.929@0.0.1707.929" timestamp="1593606841057" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1593612509312">
+    <state x="358" y="0" key="CommitChangelistDialog2" timestamp="1593612517613">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
+    <state x="358" y="0" key="CommitChangelistDialog2/0.0.1280.690@0.0.1280.690" timestamp="1593612517613" />
+    <state x="477" y="34" key="CommitChangelistDialog2/0.0.1707.929@0.0.1707.929" timestamp="1593606841057" />
+    <state x="227" y="0" key="SettingsEditor" timestamp="1593621903670">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1593612509312" />
+    <state x="227" y="0" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1593621903670" />
     <state x="370" y="96" key="Vcs.Push.Dialog.v2" timestamp="1593605534209">
       <screen x="0" y="0" width="1707" height="929" />
     </state>
