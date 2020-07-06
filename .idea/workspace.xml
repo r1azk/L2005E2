@@ -12,13 +12,44 @@
   <component name="ChangeListManager">
     <list default="true" id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/CSS/css1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/fixlabs3.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/labs3.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/audio/nhac1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fixlabs3.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/anh31.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/avatar.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/trang.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/img/trang1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab s3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/fontawesome/webfonts/fa-solid-900.woff2" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/trang.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -31,8 +62,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -93,7 +124,7 @@
       <workItem from="1593624493148" duration="79000" />
       <workItem from="1593773577340" duration="11271000" />
       <workItem from="1594031460824" duration="1551000" />
-      <workItem from="1594033055757" duration="294000" />
+      <workItem from="1594033055757" duration="8576000" />
     </task>
     <task id="LOCAL-00001" summary="update buoi 1">
       <created>1593602550076</created>
