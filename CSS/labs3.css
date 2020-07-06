@@ -3,7 +3,7 @@ div{
     padding: 30px;
     box-sizing: border-box;
     height: max-content;
-    background-color: azure;
+    background-color: #e2e2e2;
 }
 img{
     max-width:100%;
@@ -21,11 +21,11 @@ img{
     min-width: 50px;
 }
 div > div{
-    border: 1px solid red;
+    border: 1px solid gainsboro;
     float:left;
     width: 100%;
     box-sizing: border-box;
     height: 800px;
-    background-color: honeydew;
+    background-color: #bababa;
     max-height: 100%;
 }
