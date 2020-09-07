@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="update buoi 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +27,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="r1azk" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="L2005E2" />
   </component>
   <component name="ProjectId" id="1e08pYspkf7VNUVapnJJA9isfWm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -87,7 +90,7 @@
       <workItem from="1593773577340" duration="11271000" />
       <workItem from="1594031460824" duration="1551000" />
       <workItem from="1594033055757" duration="8576000" />
-      <workItem from="1599476124421" duration="894000" />
+      <workItem from="1599476124421" duration="1215000" />
     </task>
     <task id="LOCAL-00001" summary="update buoi 1">
       <created>1593602550076</created>
@@ -145,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593612518602</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update buoi 1">
+      <created>1599477036091</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599477036091</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +194,10 @@
     </state>
     <state x="358" y="0" key="CommitChangelistDialog2/0.0.1280.690@0.0.1280.690" timestamp="1593612517613" />
     <state x="477" y="34" key="CommitChangelistDialog2/0.0.1707.929@0.0.1707.929" timestamp="1593606841057" />
+    <state x="538" y="259" key="Github.CreatePullRequestDialog" timestamp="1599477093092">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="538" y="259" key="Github.CreatePullRequestDialog/0.0.1463.783@0.0.1463.783" timestamp="1599477093092" />
     <state x="227" y="0" key="SettingsEditor" timestamp="1593621903670">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
