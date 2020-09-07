@@ -10,8 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="update buoi 1">
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    <list default="true" id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="a">
+      <change afterPath="$PROJECT_DIR$/views/home.ejc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +25,7 @@
         <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="package.json" />
       </list>
     </option>
   </component>
@@ -36,6 +37,13 @@
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="r1azk" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="L2005E2" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/r1azk/L2005E2" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1e08pYspkf7VNUVapnJJA9isfWm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -94,7 +102,7 @@
       <workItem from="1593773577340" duration="11271000" />
       <workItem from="1594031460824" duration="1551000" />
       <workItem from="1594033055757" duration="8576000" />
-      <workItem from="1599476124421" duration="2187000" />
+      <workItem from="1599476124421" duration="3876000" />
     </task>
     <task id="LOCAL-00001" summary="update buoi 1">
       <created>1593602550076</created>
@@ -159,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599477036091</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="a">
+      <created>1599478424971</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599478424971</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +196,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test" />
     <MESSAGE value="update buoi 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="update buoi 1" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
   <component name="WindowStateProjectService">
     <state x="816" y="335" key="#Notifications" timestamp="1593621886715">
@@ -189,28 +205,30 @@
     </state>
     <state x="510" y="208" key="#Notifications/0.0.1280.690@0.0.1280.690" timestamp="1593612497823" />
     <state x="816" y="335" key="#Notifications/0.0.2048.1112@0.0.2048.1112" timestamp="1593621886715" />
-    <state x="663" y="264" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593447360750">
-      <screen x="0" y="0" width="1707" height="920" />
+    <state x="568" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599478753241">
+      <screen x="0" y="0" width="1463" height="783" />
     </state>
+    <state x="568" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1463.783@0.0.1463.783" timestamp="1599478753241" />
     <state x="663" y="264" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.920@0.0.1707.920" timestamp="1593447360750" />
     <state x="358" y="0" key="CommitChangelistDialog2" timestamp="1593612517613">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="358" y="0" key="CommitChangelistDialog2/0.0.1280.690@0.0.1280.690" timestamp="1593612517613" />
     <state x="477" y="34" key="CommitChangelistDialog2/0.0.1707.929@0.0.1707.929" timestamp="1593606841057" />
-    <state x="538" y="259" key="Github.CreatePullRequestDialog" timestamp="1599477479891">
+    <state x="538" y="259" key="Github.CreatePullRequestDialog" timestamp="1599478390191">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state x="538" y="259" key="Github.CreatePullRequestDialog/0.0.1463.783@0.0.1463.783" timestamp="1599477479891" />
+    <state x="538" y="259" key="Github.CreatePullRequestDialog/0.0.1463.783@0.0.1463.783" timestamp="1599478390191" />
     <state x="227" y="0" key="SettingsEditor" timestamp="1593621903670">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1593612509312" />
     <state x="227" y="0" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1593621903670" />
-    <state x="370" y="96" key="Vcs.Push.Dialog.v2" timestamp="1593605534209">
-      <screen x="0" y="0" width="1707" height="929" />
+    <state x="317" y="81" key="Vcs.Push.Dialog.v2" timestamp="1599478434770">
+      <screen x="0" y="0" width="1463" height="783" />
     </state>
     <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1593602615859" />
+    <state x="317" y="81" key="Vcs.Push.Dialog.v2/0.0.1463.783@0.0.1463.783" timestamp="1599478434770" />
     <state x="370" y="96" key="Vcs.Push.Dialog.v2/0.0.1707.929@0.0.1707.929" timestamp="1593605534209" />
   </component>
 </project>
