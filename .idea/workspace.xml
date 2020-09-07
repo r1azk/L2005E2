@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="update buoi 1" />
+    <list default="true" id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="update buoi 1">
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +24,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -90,7 +94,7 @@
       <workItem from="1593773577340" duration="11271000" />
       <workItem from="1594031460824" duration="1551000" />
       <workItem from="1594033055757" duration="8576000" />
-      <workItem from="1599476124421" duration="1215000" />
+      <workItem from="1599476124421" duration="2187000" />
     </task>
     <task id="LOCAL-00001" summary="update buoi 1">
       <created>1593602550076</created>
@@ -194,10 +198,10 @@
     </state>
     <state x="358" y="0" key="CommitChangelistDialog2/0.0.1280.690@0.0.1280.690" timestamp="1593612517613" />
     <state x="477" y="34" key="CommitChangelistDialog2/0.0.1707.929@0.0.1707.929" timestamp="1593606841057" />
-    <state x="538" y="259" key="Github.CreatePullRequestDialog" timestamp="1599477093092">
+    <state x="538" y="259" key="Github.CreatePullRequestDialog" timestamp="1599477479891">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state x="538" y="259" key="Github.CreatePullRequestDialog/0.0.1463.783@0.0.1463.783" timestamp="1599477093092" />
+    <state x="538" y="259" key="Github.CreatePullRequestDialog/0.0.1463.783@0.0.1463.783" timestamp="1599477479891" />
     <state x="227" y="0" key="SettingsEditor" timestamp="1593621903670">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
