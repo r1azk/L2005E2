@@ -7,13 +7,7 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="a">
@@ -109,12 +103,8 @@
       <workItem from="1594033055757" duration="8576000" />
       <workItem from="1599476124421" duration="3876000" />
       <workItem from="1599851472209" duration="18000" />
-<<<<<<< HEAD
-      <workItem from="1599890143915" duration="509000" />
-=======
       <workItem from="1599890143915" duration="173000" />
       <workItem from="1599890659948" duration="313000" />
->>>>>>> 8284ff6733aee5b607436bcadaef42dfa1106652
     </task>
     <task id="LOCAL-00001" summary="update buoi 1">
       <created>1593602550076</created>
@@ -213,19 +203,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
