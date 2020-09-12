@@ -11,8 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="a">
-      <change afterPath="$PROJECT_DIR$/views/home.ejc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1.html" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +104,7 @@
       <workItem from="1599476124421" duration="3876000" />
       <workItem from="1599851472209" duration="18000" />
       <workItem from="1599890143915" duration="173000" />
+      <workItem from="1599890659948" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="update buoi 1">
       <created>1593602550076</created>
@@ -176,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599478424971</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="a">
+      <created>1599890689143</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1599890689143</updated>
+    </task>
+    <task id="LOCAL-00012" summary="a">
+      <created>1599890772439</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1599890772439</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers>
       <GitHub url="https://github.com" />
     </servers>
