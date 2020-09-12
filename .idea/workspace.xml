@@ -71,7 +71,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="tasks.servers" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -103,6 +103,8 @@
       <workItem from="1594031460824" duration="1551000" />
       <workItem from="1594033055757" duration="8576000" />
       <workItem from="1599476124421" duration="3876000" />
+      <workItem from="1599851472209" duration="18000" />
+      <workItem from="1599890143915" duration="173000" />
     </task>
     <task id="LOCAL-00001" summary="update buoi 1">
       <created>1593602550076</created>
@@ -175,7 +177,9 @@
       <updated>1599478424971</updated>
     </task>
     <option name="localTasksCounter" value="11" />
-    <servers />
+    <servers>
+      <GitHub url="https://github.com" />
+    </servers>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -219,10 +223,11 @@
       <screen x="0" y="0" width="1463" height="783" />
     </state>
     <state x="538" y="259" key="Github.CreatePullRequestDialog/0.0.1463.783@0.0.1463.783" timestamp="1599478390191" />
-    <state x="227" y="0" key="SettingsEditor" timestamp="1593621903670">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="162" y="0" key="SettingsEditor" timestamp="1599890317783">
+      <screen x="0" y="0" width="1463" height="783" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1593612509312" />
+    <state x="162" y="0" key="SettingsEditor/0.0.1463.783@0.0.1463.783" timestamp="1599890317783" />
     <state x="227" y="0" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1593621903670" />
     <state x="317" y="81" key="Vcs.Push.Dialog.v2" timestamp="1599478434770">
       <screen x="0" y="0" width="1463" height="783" />
