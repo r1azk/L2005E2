@@ -20,36 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18c1fc24-837c-47a2-a97d-9478baa10e5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Linearicons-Free.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Linearicons-Free.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Linearicons-Free.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Linearicons-Free.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Linearicons-Free.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/plaza-icon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/plaza-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/plaza-icon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/plaza-icon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/bg/banner17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/bg/banner18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_common (2).scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +72,8 @@
       <workItem from="1602069158053" duration="3381000" />
       <workItem from="1602073705529" duration="296000" />
       <workItem from="1602495633187" duration="1126000" />
-      <workItem from="1602497330121" duration="2688000" />
+      <workItem from="1602497330121" duration="3225000" />
+      <workItem from="1602504846703" duration="606000" />
     </task>
     <servers />
   </component>
@@ -118,6 +90,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
