@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c1fc24-837c-47a2-a97d-9478baa10e5d" name="Default Changelist" comment="" />
+    <list default="true" id="18c1fc24-837c-47a2-a97d-9478baa10e5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Linearicons-Free.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Linearicons-Free.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Linearicons-Free.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Linearicons-Free.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Linearicons-Free.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/plaza-icon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/plaza-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/plaza-icon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/plaza-icon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/bg/banner17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/bg/banner18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/product/productbig9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/scss/_common (2).scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,12 +62,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1huZ3MuA7T8zb7OrAKDudELEXqz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -45,11 +98,26 @@
       <workItem from="1602069158053" duration="3381000" />
       <workItem from="1602073705529" duration="296000" />
       <workItem from="1602495633187" duration="1126000" />
+      <workItem from="1602497330121" duration="2370000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600864205358">
