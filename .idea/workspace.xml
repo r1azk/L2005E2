@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="a" />
+    <list default="true" id="18c1fc24-837c-47a2-a97d-9478baa10e5d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,248 +10,51 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="package.json" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
-  </component>
-  <component name="GithubProjectSettings">
-    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
-    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="r1azk" />
-    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="L2005E2" />
-  </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="hiddenUrls">
-      <set>
-        <option value="https://github.com/r1azk/L2005E2" />
-      </set>
-    </option>
-  </component>
-  <component name="ProjectId" id="1e08pYspkf7VNUVapnJJA9isfWm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1huZ3MuA7T8zb7OrAKDudELEXqz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="ChangesTree.GroupingKeys" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="tasks.servers" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f970c899-6a1e-4c08-b276-1c1255ea877b" name="Default Changelist" comment="" />
-      <created>1593447332922</created>
+      <changelist id="18c1fc24-837c-47a2-a97d-9478baa10e5d" name="Default Changelist" comment="" />
+      <created>1600862737574</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593447332922</updated>
-      <workItem from="1593447338060" duration="1214000" />
-      <workItem from="1593448672540" duration="40000" />
-      <workItem from="1593535220528" duration="2273000" />
-      <workItem from="1593601413717" duration="331000" />
-      <workItem from="1593601779493" duration="2212000" />
-      <workItem from="1593604332310" duration="804000" />
-      <workItem from="1593605171687" duration="7066000" />
-      <workItem from="1593612468184" duration="868000" />
-      <workItem from="1593621809348" duration="1247000" />
-      <workItem from="1593623285885" duration="124000" />
-      <workItem from="1593623509365" duration="341000" />
-      <workItem from="1593624041029" duration="55000" />
-      <workItem from="1593624308808" duration="10000" />
-      <workItem from="1593624493148" duration="79000" />
-      <workItem from="1593773577340" duration="11271000" />
-      <workItem from="1594031460824" duration="1551000" />
-      <workItem from="1594033055757" duration="8576000" />
-      <workItem from="1599476124421" duration="3876000" />
-      <workItem from="1599851472209" duration="18000" />
-      <workItem from="1599890143915" duration="173000" />
-      <workItem from="1599890659948" duration="313000" />
-      <workItem from="1599900226944" duration="773000" />
+      <updated>1600862737574</updated>
+      <workItem from="1600862738614" duration="3291000" />
+      <workItem from="1601291675364" duration="34000" />
+      <workItem from="1601291746669" duration="70000" />
+      <workItem from="1601292044552" duration="3959000" />
+      <workItem from="1602068619289" duration="491000" />
+      <workItem from="1602069158053" duration="3381000" />
+      <workItem from="1602073705529" duration="296000" />
+      <workItem from="1602495633187" duration="1126000" />
     </task>
-    <task id="LOCAL-00001" summary="update buoi 1">
-      <created>1593602550076</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1593602550076</updated>
-    </task>
-    <task id="LOCAL-00002" summary="update buoi 1">
-      <created>1593602603078</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1593602603078</updated>
-    </task>
-    <task id="LOCAL-00003" summary="test">
-      <created>1593604540403</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1593604540403</updated>
-    </task>
-    <task id="LOCAL-00004" summary="update buoi 1">
-      <created>1593605302221</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1593605302221</updated>
-    </task>
-    <task id="LOCAL-00005" summary="update buoi 1">
-      <created>1593605379489</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1593605379489</updated>
-    </task>
-    <task id="LOCAL-00006" summary="update buoi 1">
-      <created>1593606749163</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1593606749163</updated>
-    </task>
-    <task id="LOCAL-00007" summary="update buoi 1">
-      <created>1593606841928</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1593606841928</updated>
-    </task>
-    <task id="LOCAL-00008" summary="update buoi 1">
-      <created>1593612518602</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1593612518602</updated>
-    </task>
-    <task id="LOCAL-00009" summary="update buoi 1">
-      <created>1599477036091</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1599477036091</updated>
-    </task>
-    <task id="LOCAL-00010" summary="a">
-      <created>1599478424971</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1599478424971</updated>
-    </task>
-    <task id="LOCAL-00011" summary="a">
-      <created>1599890689143</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1599890689143</updated>
-    </task>
-    <task id="LOCAL-00012" summary="a">
-      <created>1599890772439</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1599890772439</updated>
-    </task>
-    <task id="LOCAL-00013" summary="a">
-      <created>1599891564471</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1599891564471</updated>
-    </task>
-    <task id="LOCAL-00014" summary="a">
-      <created>1599900401283</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1599900401283</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
-    <servers>
-      <GitHub url="https://github.com" />
-    </servers>
+    <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="test" />
-    <MESSAGE value="update buoi 1" />
-    <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="816" y="335" key="#Notifications" timestamp="1593621886715">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600864205358">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="510" y="208" key="#Notifications/0.0.1280.690@0.0.1280.690" timestamp="1593612497823" />
-    <state x="816" y="335" key="#Notifications/0.0.2048.1112@0.0.2048.1112" timestamp="1593621886715" />
-    <state x="568" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599478753241">
-      <screen x="0" y="0" width="1463" height="783" />
-    </state>
-    <state x="568" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1463.783@0.0.1463.783" timestamp="1599478753241" />
-    <state x="663" y="264" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.920@0.0.1707.920" timestamp="1593447360750" />
-    <state x="358" y="0" key="CommitChangelistDialog2" timestamp="1593612517613">
-      <screen x="0" y="0" width="1280" height="690" />
-    </state>
-    <state x="358" y="0" key="CommitChangelistDialog2/0.0.1280.690@0.0.1280.690" timestamp="1593612517613" />
-    <state x="477" y="34" key="CommitChangelistDialog2/0.0.1707.929@0.0.1707.929" timestamp="1593606841057" />
-    <state x="538" y="259" key="Github.CreatePullRequestDialog" timestamp="1599478390191">
-      <screen x="0" y="0" width="1463" height="783" />
-    </state>
-    <state x="538" y="259" key="Github.CreatePullRequestDialog/0.0.1463.783@0.0.1463.783" timestamp="1599478390191" />
-    <state x="162" y="0" key="SettingsEditor" timestamp="1599890317783">
-      <screen x="0" y="0" width="1463" height="783" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1593612509312" />
-    <state x="162" y="0" key="SettingsEditor/0.0.1463.783@0.0.1463.783" timestamp="1599890317783" />
-    <state x="227" y="0" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1593621903670" />
-    <state x="317" y="81" key="Vcs.Push.Dialog.v2" timestamp="1599900404667">
-      <screen x="0" y="0" width="1463" height="783" />
-    </state>
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1593602615859" />
-    <state x="317" y="81" key="Vcs.Push.Dialog.v2/0.0.1463.783@0.0.1463.783" timestamp="1599900404667" />
-    <state x="370" y="96" key="Vcs.Push.Dialog.v2/0.0.1707.929@0.0.1707.929" timestamp="1593605534209" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1600864205358" />
   </component>
 </project>
